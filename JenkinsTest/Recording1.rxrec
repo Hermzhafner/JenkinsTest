@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="354151de-d442-4404-a8df-d00cbb47fe64"
+mode="Global"
+rxversion="7.2">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="JenkinsTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Info Msg"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="aacdd616-091e-4dd9-8122-7f238d5b9620">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Success Msg"
+		optional="False"
+		reportlevel="Success;110"
+		searchpropertyid="aacdd616-091e-4dd9-8122-7f238d5b9620">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="19132f0e-9253-4830-8ac0-1f52341532ff"
+	name="JenkinsTestRepository"
+	relativepath="JenkinsTestRepository.rxrep"
+	rxversion="7.2">
+		<codegen
+		classname="JenkinsTestRepository"
+		namespace="JenkinsTest">
+		</codegen>
+		<rootfolder
+		id="2f541aa1-67d0-4254-a665-6db3bf32ce32"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
