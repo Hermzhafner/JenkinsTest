@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuite
+	name="JenkinsTest"
+	tests="1"
+	failures="0"
+	errors="0"
+	time="1"
+	disabled="0"
+	skipped="0"
+	timestamp="2017-10-24T07:15:14"
+	hostname="RXLAPTOP034">
+	<testcase
+		name="TestCase"
+		time="0"
+		classname="JenkinsTest">
+		<system-out><![CDATA[---[Info] Info Msg---
+	[itemindex] 0
+	[codefile] c:\Users\hhafner\Documents\Ranorex\RanorexStudio Projects\JenkinsTest\JenkinsTest\Recording1.cs
+---------------------
+---[Success] Success Msg---
+	[itemindex] 1
+	[codefile] c:\Users\hhafner\Documents\Ranorex\RanorexStudio Projects\JenkinsTest\JenkinsTest\Recording1.cs
+---------------------------
+]]></system-out>
+	</testcase>
+</testsuite>
