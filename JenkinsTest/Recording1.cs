@@ -41,7 +41,6 @@ namespace JenkinsTest
         /// </summary>
         public Recording1()
         {
-            varMsg = "Success Msg";
         }
 
         /// <summary>
@@ -53,18 +52,6 @@ namespace JenkinsTest
         }
 
 #region Variables
-
-        string _varMsg;
-
-        /// <summary>
-        /// Gets or sets the value of variable varMsg.
-        /// </summary>
-        [TestVariable("031f6b51-1959-465a-bbe4-641538a326e4")]
-        public string varMsg
-        {
-            get { return _varMsg; }
-            set { _varMsg = value; }
-        }
 
 #endregion
 

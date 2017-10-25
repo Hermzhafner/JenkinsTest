@@ -27,11 +27,6 @@ rxversion="7.2">
 	namespace="JenkinsTest">
 	</codegen>
 	<variables>
-		<var
-		id="031f6b51-1959-465a-bbe4-641538a326e4"
-		name="varMsg">
-			Success Msg
-		</var>
 	</variables>
 	<recorditems>
 		<loggingrecorditem
