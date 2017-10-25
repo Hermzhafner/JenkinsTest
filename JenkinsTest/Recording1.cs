@@ -83,6 +83,8 @@ namespace JenkinsTest
             
             Report.Log(ReportLevel.Success, "User", "Success Msg", new RecordItemIndex(1));
             
+            Report.Log(ReportLevel.Success, "User", "Hello!", new RecordItemIndex(2));
+            
         }
 
 #region Image Feature Data

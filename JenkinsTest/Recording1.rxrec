@@ -53,6 +53,18 @@ rxversion="7.2">
 			<bindings>
 			</bindings>
 		</loggingrecorditem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Hello!"
+		optional="False"
+		reportlevel="Success;110"
+		searchpropertyid="aacdd616-091e-4dd9-8122-7f238d5b9620">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="19132f0e-9253-4830-8ac0-1f52341532ff"
