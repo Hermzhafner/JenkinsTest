@@ -94,7 +94,7 @@ namespace JenkinsTest
 
             Report.Log(ReportLevel.Info, "User", "Info Msg", new RecordItemIndex(0));
             
-            Report.Log(ReportLevel.Success, "User", varMsg, new RecordItemIndex(1));
+            Report.Log(ReportLevel.Success, "User", "Success Msg", new RecordItemIndex(1));
             
         }
 

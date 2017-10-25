@@ -56,10 +56,6 @@ rxversion="7.2">
 			<comment>
 			</comment>
 			<bindings>
-				<binding
-				target="Message"
-				variable="varMsg">
-				</binding>
 			</bindings>
 		</loggingrecorditem>
 	</recorditems>
