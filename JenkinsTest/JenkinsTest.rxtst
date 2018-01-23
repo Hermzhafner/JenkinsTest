@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <testsuitedoc
-rxversion="7.2">
+rxversion="8.0">
 	<testsuiteentryhierarchy>
 		<flatlistofchildren>
 			<testmodule
@@ -68,5 +68,8 @@ rxversion="7.2">
 		</testconfiguration>
 	</testconfigurations>
 	<references>
+		<reference>
+			C:\Program Files (x86)\Ranorex 8.0\Bin\Ranorex.Bootstrapper.dll
+		</reference>
 	</references>
 </testsuitedoc>

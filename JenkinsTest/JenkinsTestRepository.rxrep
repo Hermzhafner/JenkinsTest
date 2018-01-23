@@ -1,19 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <repository
-name="JenkinsTestRepository"
 id="19132f0e-9253-4830-8ac0-1f52341532ff"
-rxversion="7.2">
-  <codegen
-  classname="JenkinsTestRepository"
-  namespace="JenkinsTest"/>
-  <rootfolder
-  name="Root"
-  id="2f541aa1-67d0-4254-a665-6db3bf32ce32"
-  searchtimeout="30000ms"
-  capname="unknown"
-  isrooted="True"
-  usecache="True">
-    <basepath/>
-  </rootfolder>
-  <variables/>
+name="JenkinsTestRepository"
+rxversion="8.0">
+	<codegen
+	classname="JenkinsTestRepository"
+	namespace="JenkinsTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="2f541aa1-67d0-4254-a665-6db3bf32ce32"
+	isrooted="True"
+	name="Root"
+	searchtimeout="30000ms"
+	usecache="True">
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
 </repository>

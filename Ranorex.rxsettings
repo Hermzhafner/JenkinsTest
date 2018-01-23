@@ -1,5 +1,5 @@
 ﻿<configuration
-rxversion="7.2">
+rxversion="8.0">
 	<adapter.defaultsearchtimeout>
 		10000ms
 	</adapter.defaultsearchtimeout>
@@ -27,6 +27,9 @@ rxversion="7.2">
 	<recorder.UseConfiguredTimingsOnRecord>
 		True
 	</recorder.UseConfiguredTimingsOnRecord>
+	<recorder.usekeystrokeoptimizationkey>
+		True
+	</recorder.usekeystrokeoptimizationkey>
 	<recorder.mousemovetime>
 		300ms
 	</recorder.mousemovetime>
@@ -1158,6 +1161,9 @@ rxversion="7.2">
 			</include>
 		</rawtextconfig>
 	</plugins.rawtext.whitelist>
+	<Telemetry.Enabled>
+		True
+	</Telemetry.Enabled>
 	<Endpoints.Data>
 		&lt;![CDATA[{
   &quot;mobile.android.remote&quot;: [
@@ -1205,6 +1211,9 @@ rxversion="7.2">
 	<TestCase.Retry.ShowWarning>
 		True
 	</TestCase.Retry.ShowWarning>
+	<TestExecution.CopyRuntimeToOutput>
+		False
+	</TestExecution.CopyRuntimeToOutput>
 	<plugins.win32.EnableBasicDelphiSupport>
 		False
 	</plugins.win32.EnableBasicDelphiSupport>

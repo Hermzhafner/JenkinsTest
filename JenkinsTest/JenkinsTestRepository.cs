@@ -22,7 +22,7 @@ namespace JenkinsTest
     /// <summary>
     /// The class representing the JenkinsTestRepository element repository.
     /// </summary>
-    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "7.2")]
+    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "8.0")]
     [RepositoryFolder("2f541aa1-67d0-4254-a665-6db3bf32ce32")]
     public partial class JenkinsTestRepository : RepoGenBaseFolder
     {
@@ -65,7 +65,7 @@ namespace JenkinsTest
     /// <summary>
     /// Inner folder classes.
     /// </summary>
-    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "7.2")]
+    [System.CodeDom.Compiler.GeneratedCode("Ranorex", "8.0")]
     public partial class JenkinsTestRepositoryFolders
     {
     }

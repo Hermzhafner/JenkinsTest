@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <modulegroupdoc
-rxversion="7.2">
-  <testsuiteentryhierarchy>
-    <flatlistofchildren>
-      <modulegroups
-      name="JenkinsTest"
-      id="fd6eb66e-5ad9-4ba1-8153-3744e9f66404"/>
-    </flatlistofchildren>
-    <childhierarchy>
-      <modulegroups
-      name="JenkinsTest"
-      id="fd6eb66e-5ad9-4ba1-8153-3744e9f66404"/>
-    </childhierarchy>
-  </testsuiteentryhierarchy>
+rxversion="8.0">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroups
+			id="fd6eb66e-5ad9-4ba1-8153-3744e9f66404"
+			name="JenkinsTest">
+			</modulegroups>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="fd6eb66e-5ad9-4ba1-8153-3744e9f66404"
+			name="JenkinsTest">
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
 </modulegroupdoc>
